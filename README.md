@@ -2,6 +2,8 @@
 
 An autonomous, LLM-powered trading agent that adapts to social sentiment and makes trading decisions using AI.
 
+[![Discord](https://img.shields.io/discord/1336186249198739578?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/nf5GR94ySJ)
+
 MAHORAGA scrapes StockTwits for trending stocks, uses OpenAI to analyze signals and research opportunities, then executes trades through Alpaca. It's designed as a starting point for building your own agentic trading strategies.
 
 <img width="1278" height="957" alt="dashboard" src="https://github.com/user-attachments/assets/56473ab6-e2c6-45fc-9e32-cf85e69f1a2d" />
@@ -329,6 +331,12 @@ The MCP server provides these tools for your agents:
 3. **Multi-source confirmation**: Require 2+ sources to agree before trading
 4. **Options trading**: The MCP server supports options via Alpaca
 5. **Custom indicators**: Use the `technicals-get` MCP tool
+
+## Community
+
+Join our Discord for help, discussion, and sharing strategies:
+
+**[Discord Server](https://discord.gg/nf5GR94ySJ)**
 
 ## Disclaimer
 
